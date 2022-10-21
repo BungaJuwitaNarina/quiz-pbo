@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Gaji_Karyawan
+comment1.params=
+comment1.target=double\ getGajiPokok()
+comment2.params=
+comment2.target=void\ cetak_hasil()
+comment3.params=gaji\ jabatan
+comment3.target=int\ tunjangan(int,\ java.lang.String)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
